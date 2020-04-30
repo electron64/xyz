@@ -14,7 +14,7 @@
     "halogen": "0.2.0",
     "qrcode.react": "^0.9.3",
     "html-to-draftjs": "1.4.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-file-download": "0.4.1",
     "json2csv": "^4.5.0",
     "jsoneditor": "^5.32.5",
